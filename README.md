@@ -2,6 +2,7 @@
 A reproduction of the MR-Net paper by Stanford Machine Learning group. A deep neural network that diagnoses knee MRI scans for abnormalities.
 ### Colaborators
 Mohamed Elsayed Abdelrehim
+
 Mohamed Ibrahim Elmetwally
 
 ## Loading the Dataset
